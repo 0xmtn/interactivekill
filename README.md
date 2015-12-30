@@ -24,8 +24,8 @@ _(Coming soon)_
 _(Coming soon)_
 
 ##Author
-Developed by Metin Emenullahi
+Developed by [Metin Emenullahi](https://github.com/0xmtn/)
 
 ## License
-Copyright (c) 2015 Metin Emenullahi  
+Copyright (c) 2015 [Metin Emenullahi](https://github.com/0xmtn/) 
 Licensed under the MIT license.
