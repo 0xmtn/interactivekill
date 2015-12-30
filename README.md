@@ -23,7 +23,7 @@ _(Coming soon)_
 ## Contributing
 _(Coming soon)_
 
-##Author
+##Authors
 Developed by [Metin Emenullahi](https://github.com/0xmtn/)
 
 ## License
