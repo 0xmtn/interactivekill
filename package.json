@@ -1,7 +1,7 @@
 {
   "name": "ikill",
   "description": "A kill plugin which you can interact",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/0xmtn/interactivekill",
   "author": {
     "name": "Metin Emenullahi",
@@ -33,7 +33,7 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt": "~0.4.5"
   },
-  "keywords": [],
+  "keywords": ["kill", "interactive", "easing kill", "ps aux"],
   "preferGlobal": "true",
   "bin": {
     "ikill": "lib/ikill.js"
